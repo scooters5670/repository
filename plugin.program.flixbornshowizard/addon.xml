@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<addon id="plugin.program.flixbornshowizard" name="Flixbornsho Wizard" version="1.0.5" provider-name="jesusboxmedia.com">
+
+  <requires>
+
+    <import addon="xbmc.python" version="2.1.0"/>
+
+  </requires>
+
+  <extension point="xbmc.python.pluginsource" library="default.py">
+
+        <provides>program executable</provides>
+
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+
+      <summary lang="en">My jesus box Wizard</summary>
+    <description lang="en">Best Build for Jesus Box Media / Wizard / ##CREDIT TO JP HIGHTEK FOR CREATING THIS WIZARD ##</description>
+    <disclaimer lang="en">Updates included are...</disclaimer>
+		<forum></forum>
+		<source>http://www.jesusboxmedia.com</source>
+		<website>http://www.jesusboxmedia.com</website>
+		<platform>all</platform>
+
+  </extension>
+
+</addon>
+

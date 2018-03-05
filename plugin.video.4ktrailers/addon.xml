@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.4ktrailers"
+	name="4K Movie Trailers"
+	version="1.0.4"
+	provider-name="4K Trailers">
+    <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Watch all your movie trailers in the highest quality 4k</summary>
+    <description lang="en">Welcome! The 4K Trailers channel is your destination for hot new trailers the second they drop. The difference between our channels and other Trailer youtube channel is the quality. We deliver the Trailers in Native 4K which gives you a better experience and enjoyment. The 4K Trailers team is here day and night to make sure all the hottest new movie trailers are available whenever you want them.</description>
+    <platform>all</platform>
+  </extension>
+</addon>

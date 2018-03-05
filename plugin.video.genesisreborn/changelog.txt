@@ -1,0 +1,48 @@
+
+-Version 2018.01.01
+Updated scrapers, Added New sources
+
+_____________________________________________
+-Version 2017.12.16
+New scrapers
+new scripts
+_____________________________________________
+
+-Version 2017.11.12
+General update
+new sources
+_____________________________________________
+-Version 2017.10.17
+
+Updated scrapers
+Added Alluc in accounts
+_____________________________________________
+-Version 2017.09.17
+
+Minor bug fixes, Scrappers updated
+___________________________________________________________________________
+
+- Version Version 2017.06.17
+Complete upgrade. Add-on was completely updated 
+New Fanart, New Icon, Updated database, More sources, New menu, Trakt support, IMDB and more.
+New look, New Feel.
+___________________________________________________________________________
+- Version 2017.05.17
+Overall addon menu updated
+minor bugs fix
+New system settings
+___________________________________________________________________________
+- Version Version 2017.04.00
+ New Menus added: Superhero Movies and Kids Section
+ Updated genesis reborn fanart
+___________________________________________________________________________
+-3/31/17 System bug support. Heavy Buffering sources updated and or removed
+___________________________________________________________________________ 
+- 3/30/17 new navigation menu layout for improved experience
+- New scrappers created for new source python
+- We added more streaming sources for HD movie links
+___________________________________________________________________________
+- 3/29/17 new hd and 4k stream support updated
+- Compatible with all versions of Kodi including Kodi 17.1 and Jesus Box Media Center
+- Genesis Reborn now available on Jesus Box Media Builds
+- System patch reconfigured for over the air cast from mobile devices 

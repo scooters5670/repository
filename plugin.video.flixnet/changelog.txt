@@ -1,0 +1,67 @@
+]B]01.01.18
+Updated Scrapers
+Added New sources
+_____________________________________________
+
+]B]12.16.17
+New scrapers
+minor bug fixes
+_____________________________________________
+
+]B]11.12.17
+General update
+New sources
+minor bug fixes
+_____________________________________________
+]B]11.07.17
+Changed layout
+updated providers
+removed non working captcha providers
+_____________________________________________
+
+]B]11.03.17
+
+Changed, updated and added new providers (123Netflix)
+_____________________________________________
+
+]B]11.01.17
+
+Updated providers and scrapers
+_____________________________________________
+]B]10.15.17
+
+Updated scrapers
+fixed sources
+new streaming sourced added
+Added Alluc in accounts
+_____________________________________________
+
+]B]8.21.17
+Overall update and movie sources updated
+_____________________________________________
+
+[B]7.20.17[/B]
+In Theaters section added
+_____________________________________________
+[B]6.24.17[/B]
+Added support for Trakt
+Added support for Trailers
+Fixes search menu and different minor bugs
+Added new provided and updater old ones
+_____________________________________________
+[B]6.19.17[/B]
+Added support for Real Debrid
+_____________________________________________
+
+[B]4.12.17[/B]
+New HD sources added
+Removed dead links
+Disabled openload sources with captcha codes
+Minor bug fix
+_____________________________________________
+
+[B]4.2.17[/B]
+- Initial Release
+_____________________________________________
+
+Account settings updated
